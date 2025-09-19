@@ -1,1 +1,1 @@
-Tutorial : https://youtu.be/JbVSUPz-tnM
+vercel.app/new
